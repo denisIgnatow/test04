@@ -185,13 +185,13 @@ body {
 
 .header__search {
   position: relative;
-  width: 374px;
+  width: 330px;
   height: 34px;
 }
 
 .search__input {
-  width: 374.21px;
-  height: 34.45px;
+  width: 100%;
+  height: 100%;
   padding-left: 24px;
   border: 1.54632px solid rgba(51, 51, 51, 0.2);
   border-radius: 30.9265px;
@@ -234,11 +234,11 @@ body {
 }
 
 .middle__links a:nth-child(1) {
-  margin-right: 8.5px;
+  margin-right: 4px;
 }
 
 .middle__links a:nth-child(2) {
-  margin-left: 8.5px;
+  margin-left: 4px;
 }
 
 .middle__number {
